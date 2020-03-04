@@ -19,6 +19,7 @@
 ## Terminado o projeto `CRUD JAVASCRIPT - Inscrições`
 - Site publicado [link para essa aplicação](https://douglasabnovato.github.io/crud-inscritos/https://douglasabnovato.github.io/crud-inscritos/)
 - Servidor github pages (Gratuito)
+- **ATENÇÃO** : como o github pages aceita apenas site estático, a parte do crud das inscrições não funcionou, exibindo apenas um fórmulário.
 
 >@douglasabnovato
 

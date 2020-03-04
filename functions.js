@@ -66,7 +66,7 @@ $(function () {
                   "<td>" + per.Name + "</td>" +
                   "<td>" + per.Phone + "</td>" +
                   "<td>" + per.Email + "</td>" +                    
-                  "<td><img src='edit.png' alt='Edit" + i + "' class='btnEdit'/>&nbsp &nbsp<img src='delete.png' alt='Delete" + i + "' class='btnDelete'/></td>" +
+                  "<td><img src='images/edit.png' alt='Edit" + i + "' class='btnEdit'/>&nbsp &nbsp<img src='images/delete.png' alt='Delete" + i + "' class='btnDelete'/></td>" +
                   "</tr>"
                   );
       } //Recorrer y agregar los items a la tabla HTML

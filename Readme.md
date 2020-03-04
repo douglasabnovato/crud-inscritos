@@ -2,7 +2,7 @@
 
 ### Criação: 04 de março de 2020
 ### Atualização: 04 de março de 2020
-### Terminado: Não 
+### Terminado: Sim 
 ### Publicado: Não
 ### Prática : @douglasabnovato
 
@@ -17,8 +17,8 @@
 ![VSCode](/images/logo-VSCode.png)
 
 ## Terminado o projeto `CRUD JAVASCRIPT - Inscrições`
-- Site publicado [link para essa aplicação](https://www.google.com.br/)
-- Servidor ZEIT.Now (Gratuito)
+- Site publicado [link para essa aplicação](https://douglasabnovato.github.io/crud-inscritos/https://douglasabnovato.github.io/crud-inscritos/)
+- Servidor github pages (Gratuito)
 
 >@douglasabnovato
 

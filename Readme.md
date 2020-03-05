@@ -17,6 +17,7 @@
 ![VSCode](/images/logo-VSCode.png)
 
 ## Terminado o projeto `CRUD JAVASCRIPT - Inscrições`
+- site publicado COMPLETO [link para essa aplicação](http://cooing-rainstorm.surge.sh)
 - Site publicado [link para essa aplicação](https://douglasabnovato.github.io/crud-inscritos/https://douglasabnovato.github.io/crud-inscritos/)
 - Servidor github pages (Gratuito)
 - **ATENÇÃO** : como o github pages aceita apenas site estático, a parte do crud das inscrições não funcionou, exibindo apenas um fórmulário.

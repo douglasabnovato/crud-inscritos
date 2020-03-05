@@ -3,7 +3,7 @@
 ### Criação: 04 de março de 2020
 ### Atualização: 04 de março de 2020
 ### Terminado: Sim 
-### Publicado: Não
+### Publicado: Sim em http://cooing-rainstorm.surge.sh
 ### Prática : @douglasabnovato
 
 ## Desafio do projeto `CRUD JAVASCRIPT - Inscrições`

@@ -22,7 +22,8 @@ Desenvolver um CRUD em HTML CSS e Javascript para inscrições de usuários segu
 #### Publicado
 
 - Hospedado no Servidor Surge.sh
-- ![CRUD Inscrições](/images/tela-1.jpg)<br/>
+- Um crud <br/> 
+![CRUD Inscrições](/images/tela-1.jpg) 
 
 :. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)<br/>
 .. [Santiago Benalcázar - CRUD](https://www.youtube.com/watch?v=Ms8bIRkwFms) 

@@ -1,28 +1,28 @@
-## CRUD JAVASCRIPT - Inscrições
+### CRUD Inscrições
 
-### Criação: 04 de março de 2020
-### Atualização: 04 de março de 2020
-### Terminado: Sim 
-### Publicado: Sim em http://cooing-rainstorm.surge.sh
-### Prática : @douglasabnovato
+#### Objetivo
 
-## Desafio do projeto `CRUD JAVASCRIPT - Inscrições`
-- Desenvolver um CRUD em HTML CSS e Javascript para inscrições de usuários seguindo folha de especificações.
+Desenvolver um CRUD em HTML CSS e Javascript para inscrições de usuários seguindo folha de especificações.
 
-### Ferramentas : 
+#### Ferramentas / Tecnologias
+
 ![HTML/CSS/Javascript](/images/logo-html-css-js.jpeg)
 ![Git](/images/logo-git.png)
 ![Github](/images/logo-github.png)
 ![Youtube](/images/logo-youtube.png)
 ![VSCode](/images/logo-VSCode.png)
 
-## Terminado o projeto `CRUD JAVASCRIPT - Inscrições`
-- site publicado COMPLETO [link para essa aplicação](http://cooing-rainstorm.surge.sh)
-- Site publicado [link para essa aplicação](https://douglasabnovato.github.io/crud-inscritos/https://douglasabnovato.github.io/crud-inscritos/)
-- Servidor github pages (Gratuito)
-- **ATENÇÃO** : como o github pages aceita apenas site estático, a parte do crud das inscrições não funcionou, exibindo apenas um fórmulário.
+#### Detalhes
 
->@douglasabnovato
+- Criação: 04 de março de 2020
+- Atualização: 04 de março de 2020
+- Terminado: Sim 
+- Publicado: [CRUD Inscrições](http://cooing-rainstorm.surge.sh)
 
-:. Do CRUD Javascript : `https://www.youtube.com/watch?v=Ms8bIRkwFms`</br>
-Por Santiago Benalcázar :  `https://github.com/matusaurio/CRUDJS`
+#### Publicado
+
+- Hospedado no Servidor Surge.sh
+- ![CRUD Inscrições](/images/tela-1.jpg)<br/>
+
+:. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)<br/>
+.. [Santiago Benalcázar - CRUD](https://www.youtube.com/watch?v=Ms8bIRkwFms) 

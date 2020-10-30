@@ -1,4 +1,4 @@
-### CRUD Inscrições
+### Registration Form
 
 #### Objetivo
 
